@@ -1,2 +1,3 @@
 
-It's a game in which we enter values separated by commas and once we click enter, elements start getting highlighted and stops on random number.
+Game in which RGB value of random color is displayed at the top and below 3-6 choices of colors are given. You win if you select the right one.
+
